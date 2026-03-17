@@ -48,6 +48,7 @@ Currently building real-world AI systems and experimenting with generative AI to
 | **Skyy Facial Recognition** | Adds a privacy-preserving facial recognition capability to the Skyy AI platform using MCP, enabling automatic user recognition | Python, OpenCV |
 | **Tile Matcher** | Identifies tiles by matching user photos with a catalog of tile images using classical computer vision and deep learning techniques | Python, TypeScript |
 | **Scholarship Agent** | Platform that helps students find scholarships, manage applications, and receive personalized recommendations through an AI conversational agent | Python, ReAct agent |
+| **FoodShi** | Turns surplus food into on-chain rewards by enabling verified local pickups and issuing tokens and NFT milestones on Polygon | TypeScript, Solidity |
 
 ## 📊 GitHub Stats
 
