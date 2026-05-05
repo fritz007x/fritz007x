@@ -50,6 +50,7 @@ Currently building real-world AI systems and experimenting with generative AI to
 | **Tile Matcher** | Identifies tiles by matching user photos with a catalog of tile images using classical computer vision and deep learning techniques | Python, TypeScript |
 | **Scholarship Agent** | Platform that helps students find scholarships, manage applications, and receive personalized recommendations through an AI conversational agent | Python, ReAct agent |
 | **FoodShi** | Turns surplus food into on-chain rewards by enabling verified local pickups and issuing tokens and NFT milestones on Polygon | TypeScript, Solidity |
+| **Inventory Tracker** | A beginner-friendly Java CLI application that manages warehouse inventory with product tracking, stock updates, search functionality, low-stock alerts, and CSV-based persistent storage. | Java |
 
 ## 📊 GitHub Stats
 
